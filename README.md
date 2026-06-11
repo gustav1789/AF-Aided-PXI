@@ -1,3 +1,4 @@
+# AlphaFold-Aided Protein Explosion Imaging
 This repository contains the code needed to replicate the PXI simulations
 of AlphaFold-generated protein structures from the Bachelor's thesis
 project "AlphaFold-aided Protein Explosion Imaging".
@@ -11,15 +12,14 @@ The simulation files are package into h5 files, the re-packaged into
 pickle objects of the Bunch format for easy implementation of scikit-
 learn functions for data anlysis and machine learning steps.
 
-------------------Sourcing Protein Structures------------------
+## Sourcing Protein Structures
+
+Coming soon
+## Coulomb Explosion Simulations
 
 Coming soon
 
------------------Coulomb Explosion Simulations-----------------
-
-Coming soon
-
-----------------------------Analysis----------------------------
+## Analysis
 
 Data analysis and machine learning scripts are found in the folder "Analysis".
 h5 files stored in the "sims" subfolder are first re-packaged
