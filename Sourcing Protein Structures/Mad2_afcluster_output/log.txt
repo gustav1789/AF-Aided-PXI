@@ -1,0 +1,4 @@
+2026-04-19 10:47:16,238 Running on GPU
+2026-04-19 10:47:16,256 Found 2 citations for tools or databases
+2026-04-19 10:47:16,258 Query 1/107: mad2l1clustered_000 (length 205)
+2026-04-19 10:48:03,946 alphafold2_model_1_seed_000 recycle=0 pLDDT=58

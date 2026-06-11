@@ -1,0 +1,4 @@
+2026-04-23 12:43:48,080 Running on GPU
+2026-04-23 12:43:48,610 Found 2 citations for tools or databases
+2026-04-23 12:43:48,612 Query 1/197: KAIB_clustered_000 (length 102)
+2026-04-23 12:44:35,221 alphafold2_model_1_seed_000 recycle=0 pLDDT=77.1
